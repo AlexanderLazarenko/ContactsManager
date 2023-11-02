@@ -13,3 +13,6 @@
 #include <malloc.h>
 #include <memory.h>
 #include <tchar.h>
+// My #includes:
+#include <string>
+using namespace std;
